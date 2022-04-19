@@ -426,7 +426,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "C:\\Users\\mache\\Documents\\KiCad Projects\\PlantillaA3_Artil.kicad_wks",
+    "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -439,8 +439,24 @@
       ""
     ],
     [
-      "74658f73-bf02-4871-9ace-adacc9cfee91",
-      "Speaker"
+      "458205a8-00e8-4348-9aab-ba267ac5d6fd",
+      "Brain"
+    ],
+    [
+      "2afe6ed8-91cf-49e7-a885-eef2fb98d52c",
+      "Motors"
+    ],
+    [
+      "26f283ad-c3bb-41f7-a2c3-f3c93843d496",
+      "Power Management"
+    ],
+    [
+      "1f5bbc64-0ce0-4905-8e58-e75d226a9ecd",
+      "Sensors"
+    ],
+    [
+      "9e532216-2d30-4f4a-bf22-f4036cb007be",
+      "OutPuts"
     ]
   ],
   "text_variables": {}
