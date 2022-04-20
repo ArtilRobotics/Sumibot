@@ -504,6 +504,24 @@
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/fbef5b63-034d-409c-8914-4c047184c5ff"
       (reference "#PWR078") (unit 1) (value "GND") (footprint "")
     )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/8202a025-2c5b-4377-aeb8-d6983c369e15"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/b947f44a-d83e-4815-b998-647d35a165a3"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/f27c6b4e-f887-4539-82e0-097fc8068475"
+      (reference "10K?") (unit 1) (value "R_Potentiometer") (footprint "")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/b962a8fd-5440-4da5-a569-f8fd96c1bcb4"
+      (reference "10ohms?") (unit 1) (value "R_Small") (footprint "")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/f0993b95-6613-44de-9713-b701d94a0ff5"
+      (reference "47nF?") (unit 1) (value "D_Capacitance") (footprint "")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/e81d09d5-ed19-4c05-ad4b-65180578c22f"
+      (reference "470uF?") (unit 1) (value "D_Capacitance") (footprint "")
+    )
     (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/dc9ce64d-ac21-40a0-922b-44ea267f3a23"
       (reference "BT1") (unit 1) (value "2S") (footprint "Connector_Molex:Molex_Micro-Latch_53253-0270_1x02_P2.00mm_Vertical")
     )
@@ -806,6 +824,9 @@
     )
     (path "/1f5bbc64-0ce0-4905-8e58-e75d226a9ecd/34211d12-1ca4-4ba2-9851-9fc4728608c3"
       (reference "U8") (unit 1) (value "LP2985-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
+    )
+    (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/3a4b07bd-ea10-4de4-98f3-2950d111e1ef"
+      (reference "U?") (unit 1) (value "LM386") (footprint "")
     )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/4aa6bf01-b5e0-4b67-b167-e7cec0b318d5"
       (reference "i2C1") (unit 1) (value "5V GND SCL SDA") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")

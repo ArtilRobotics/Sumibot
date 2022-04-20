@@ -733,7 +733,7 @@
   )
   (bus_entry (at 163.83 53.975) (size -2.54 2.54)
     (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 34e6bd81-7c26-49e3-8d0a-2070d225a79c)
+    (uuid 34e6bd81-7c26-49e3-8d0a-2070d225a79d)
   )
 
   (wire (pts (xy 264.287 126.365) (xy 264.287 137.668))

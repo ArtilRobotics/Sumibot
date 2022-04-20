@@ -3,9 +3,7 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
-    "hidden_nets": [
-      "/PWM_IN1A"
-    ],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -68,7 +66,7 @@
     "zone_display_mode": 1
   },
   "meta": {
-    "filename": "KaraKuriSMD.kicad_prl",
+    "filename": "SumibotSMD.kicad_prl",
     "version": 3
   },
   "project": {
