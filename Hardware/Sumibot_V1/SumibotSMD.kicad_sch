@@ -681,6 +681,12 @@
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/a65810ae-68f0-49be-ad80-6e2b27c38d46"
       (reference "Q5") (unit 1) (value "DMG3406L") (footprint "Package_TO_SOT_SMD:SOT-23")
     )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/27792339-96aa-456f-97bd-92f46f99c363"
+      (reference "Q?") (unit 1) (value "IRF7343PBF") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/4a7a8704-b751-4f8c-aedf-2558a0174a72"
+      (reference "Q?") (unit 2) (value "IRF7343PBF") (footprint "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm")
+    )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/cdf3485c-7f86-4a8f-ada7-896316c49fbf"
       (reference "R1") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
