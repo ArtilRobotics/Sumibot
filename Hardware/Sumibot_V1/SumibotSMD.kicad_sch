@@ -270,6 +270,9 @@
     (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/939b0a86-94be-49e4-8c6b-eadddf1def48"
       (reference "#FLG03") (unit 1) (value "PWR_FLAG") (footprint "")
     )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/7dd68a6a-66d4-479c-810a-3b6f633d834d"
+      (reference "#FLG?") (unit 1) (value "PWR_FLAG") (footprint "")
+    )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/f8df53e4-7969-40a1-a21c-0e61acb4a348"
       (reference "#PWR01") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -504,11 +507,23 @@
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/fbef5b63-034d-409c-8914-4c047184c5ff"
       (reference "#PWR078") (unit 1) (value "GND") (footprint "")
     )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/56740bb1-13da-426a-b6c5-b40d08bfe783"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/58f107e6-23ee-434f-bae2-d726456c3143"
+      (reference "#PWR?") (unit 1) (value "VBUS") (footprint "")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/6db4bc88-2a9d-406d-a603-34daebf4ad88"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/8202a025-2c5b-4377-aeb8-d6983c369e15"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/b947f44a-d83e-4815-b998-647d35a165a3"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/dec860f5-d864-4d1b-9d4c-db02f4adba58"
+      (reference "#PWR?") (unit 1) (value "+BATT") (footprint "")
     )
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/f27c6b4e-f887-4539-82e0-097fc8068475"
       (reference "10K?") (unit 1) (value "R_Potentiometer") (footprint "")
@@ -600,6 +615,15 @@
     (path "/1f5bbc64-0ce0-4905-8e58-e75d226a9ecd/054d85d2-edd2-4352-a723-c04df02bd95f"
       (reference "C24") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/13314bb5-202e-418d-bfc8-b14121ab059c"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/39ebc0e7-8a31-458e-ac32-21184b87aa70"
+      (reference "C?") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/5ebda441-b81f-42b6-be36-f86b6fce42cb"
+      (reference "C?") (unit 1) (value "1uF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/7016f016-ae41-4ff3-a0c2-b471760faa59"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder")
     )
@@ -626,6 +650,9 @@
     )
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/f3001e82-85da-473d-a742-2373964e0441"
       (reference "D9") (unit 1) (value "LED_RGBK") (footprint "LED_SMD:LED_RGB_5050-6")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/d7253e19-8d12-4068-a935-68f0505b71f2"
+      (reference "D?") (unit 1) (value "DIODE") (footprint "Diode_SMD:D_0201_0603Metric")
     )
     (path "/7f89682d-1838-422d-b1f3-eeaa3bc004ff"
       (reference "H1") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_3.2mm_M3_ISO14580_Pad_TopBottom")
@@ -786,6 +813,18 @@
     (path "/9e532216-2d30-4f4a-bf22-f4036cb007be/4ba9b371-a230-4c25-aeb7-f4e2d538b219"
       (reference "R33") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0805_2012Metric")
     )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/14daf660-ca4c-4233-93da-f9e3b9ad8686"
+      (reference "R?") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/80e34f60-e137-45f7-b612-8ae78f3569d2"
+      (reference "R?") (unit 1) (value "100K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/dbad6cd5-ec18-46ac-9fda-7aa2def8afb8"
+      (reference "R?") (unit 1) (value "300K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/eb12aa98-e68c-43ca-bc7f-9875f10a6dd9"
+      (reference "R?") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0805_2012Metric")
+    )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/b705cff8-172f-4abb-a9c3-430d81e742dd"
       (reference "SW1") (unit 1) (value "Reset") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
     )
@@ -803,6 +842,9 @@
     )
     (path "/1f5bbc64-0ce0-4905-8e58-e75d226a9ecd/80a5dcdf-4b0a-4aff-b385-02129e1cedf1"
       (reference "SW6") (unit 1) (value "C") (footprint "Button_Switch_SMD:SW_SPST_B3U-1000P")
+    )
+    (path "/26f283ad-c3bb-41f7-a2c3-f3c93843d496/c31d828e-6fce-4cd1-bc43-2584d5491a4f"
+      (reference "SW?") (unit 1) (value "SW_Push") (footprint "")
     )
     (path "/458205a8-00e8-4348-9aab-ba267ac5d6fd/7a1cd987-ba54-45a6-be0c-ce55ee174ac3"
       (reference "Serial1") (unit 1) (value "5V RX TX GND") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
